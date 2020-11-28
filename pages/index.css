@@ -4,3 +4,5 @@
 @import url(../blocks/main/__column/main__column.css);
 @import url(../blocks/main/__column-link/main__column-link.css);
 @import url(../blocks/main/__nav/main__nav.css);
+@import url(../blocks/main/__title/main__title.css);
+@import url(../blocks/main/__subtitle/main__subtitle.css);
