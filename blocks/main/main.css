@@ -1,8 +1,11 @@
 .main {
+    margin: 0;
     font-family: 'Inter';
     -webkit-font-smoothing: antialiased;
     max-width: 100%;
     min-width: 320px;
     min-height: 100vh;
     background: #2A2C2F;
+    display: flex;
+    justify-content: center;
 }
