@@ -1,4 +1,6 @@
 .main__nav {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
